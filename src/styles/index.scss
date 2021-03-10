@@ -1,5 +1,14 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+    width: 600px;
+}
+
 /* 
 
     You can write your own styles here...
